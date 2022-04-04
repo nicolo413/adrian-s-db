@@ -17,7 +17,8 @@ Some of my favorite technologies are:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="graph ql logo" style="height: 100px; width:100px;"/>
 <div>
   
-🔨 I'm currently working on a [Usher](https://github.com/adrian-s-db/usher-client), solidifying the codebase and enriching its functionality. 
+  
+🔨 I'm currently working on [Usher](https://github.com/adrian-s-db/usher-client), solidifying the codebase and enriching its functionality. 
 
 👨‍🍳 Whenever I'm not coding, you may find me trying a new recipe, playing basketball or taking photos around the city
 
