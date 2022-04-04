@@ -8,9 +8,9 @@ Some of my favorite technologies are:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" style="display:in-line;  height: 100px; width:100px;"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graph ql logo" style="height: 100px; width:100px;"/>
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="express logo" style="height: 100px; width:100px;"/>
+  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graph ql logo" style="height: 100px; width:100px;"/>
 
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongofb logo" style="height: 100px; width:100px;"/>
 
