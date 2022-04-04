@@ -14,8 +14,6 @@ Some of my favorite technologies are:
 
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongofb logo" style="height: 100px; width:100px;"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo" style="height: 100px; width:100px;"/>
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="graph ql logo" style="height: 100px; width:100px;"/>
 <div>
   
