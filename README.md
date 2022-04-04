@@ -18,6 +18,7 @@ Some of my favorite technologies are:
 <div>
   
 <br/>  
+
 🔨 I'm currently working on [Usher](https://github.com/adrian-s-db/usher-client), solidifying the codebase and enriching its functionality. 
 
 👨‍🍳 Whenever I'm not coding, you may find me trying a new recipe, playing basketball or taking photos around the city
